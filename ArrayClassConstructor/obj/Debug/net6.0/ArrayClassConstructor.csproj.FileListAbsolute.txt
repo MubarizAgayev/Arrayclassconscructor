@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\bin\Debug\net6.0\ArrayClassConstructor.exe
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\bin\Debug\net6.0\ArrayClassConstructor.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\bin\Debug\net6.0\ArrayClassConstructor.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\bin\Debug\net6.0\ArrayClassConstructor.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\bin\Debug\net6.0\ArrayClassConstructor.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\obj\Debug\net6.0\ArrayClassConstructor.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\obj\Debug\net6.0\ArrayClassConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\obj\Debug\net6.0\ArrayClassConstructor.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\obj\Debug\net6.0\ArrayClassConstructor.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\obj\Debug\net6.0\ArrayClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\obj\Debug\net6.0\ArrayClassConstructor.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\obj\Debug\net6.0\refint\ArrayClassConstructor.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\obj\Debug\net6.0\ArrayClassConstructor.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\obj\Debug\net6.0\ArrayClassConstructor.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-class-constructor\ArrayClassConstructor\ArrayClassConstructor\obj\Debug\net6.0\ref\ArrayClassConstructor.dll
